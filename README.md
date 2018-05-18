@@ -22,3 +22,4 @@ WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.r
 面積計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.area), [iOS](https://itunes.apple.com/jp/app/%E9%9D%A2%E7%A9%8D%E8%A8%88%E7%AE%97/id1234162227) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
 だれでもナビ | [Android](https://play.google.com/store/apps/details?id=org.shiawasenomura.app.udnavi), [iOS](https://itunes.apple.com/us/app/だれでもナビ/id1213316151?l=ja&ls=1&mt=8) | http://www.shiawasenomura.org/infolist/daredemonavi.html
 QQMAP | [iOS](https://itunes.apple.com/us/app/qqmap/id1254388098?l=ja&ls=1&mt=8) | https://www.qqzaidanmap.jp/static_contents/about
+仮想通貨市場分析AIプラットフォーム SIGNAL | [iOS](https://itunes.apple.com/us/app/signal-ai%E3%81%8C%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E5%A3%B2%E8%B2%B7%E3%82%B7%E3%82%B0%E3%83%8A%E3%83%AB%E3%82%92%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/id1339581380) | https://signal.fact-base.io/
